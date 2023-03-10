@@ -2,7 +2,7 @@
 
 Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://github.com/T-Lobato/HTML_CSS/blob/main/Portfolio/assets/print-index.jpeg)
+![image](https://github.com/T-Lobato/portfolio/blob/main/assets/print-index.jpeg)
 
 ## Ferramentas utilizadas:
 
